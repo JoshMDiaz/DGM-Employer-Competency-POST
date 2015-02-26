@@ -9,8 +9,7 @@ router.get('/', function(req, res, next) {
 
 
 router.post('/api', function (req, res, next) {
-  res.send('We got da POST mon!');
-  res.send(req.body);
+  res.request('myData', {username: req.body.username, email: req.body.email});
 });
 
 
