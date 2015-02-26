@@ -1,0 +1,26 @@
+{
+  "name": "DGM-Employer-Competency-1",
+  "version": "1.0.0",
+  "description": "Testing assignment",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoshMDiaz/DGM-Employer-Competency-1.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Josh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshMDiaz/DGM-Employer-Competency-1/issues"
+  },
+  "homepage": "https://github.com/JoshMDiaz/DGM-Employer-Competency-1"
+}
