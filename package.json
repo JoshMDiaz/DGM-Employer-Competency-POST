@@ -6,9 +6,10 @@
   "dependencies": {
     "express": "^4.11.2"
   },
-  "devDependencies": {},
+  "devDependencies": {"expect": "^1.6.0"},
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
